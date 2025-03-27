@@ -1,4 +1,4 @@
-# Text-Trolleybus-Simualtor-NET-Framework
+# Text-Trolleybus-Simulator-NET-Framework
 Текстовый симулятор троллейбуса на .NET Framework 2.0
 
 Готовая база под создание текстовых симуляторов троллейбуса. В качестве примера в игре указаны некоторые маршруты и троллейбусы Краматорска.
